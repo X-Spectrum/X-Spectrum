@@ -30,7 +30,7 @@
 </a>
 
 <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/search?q=tailwindcss+logo&sxsrf=ALiCzsbGKEQA_T5A4c-ZgwkU4bspFpV9zQ:1661879729618&source=lnms&tbm=isch&sa=X&ved=2ahUKEwisysW3iO_5AhWRVPEDHVhGD-IQ_AUoAXoECAEQAw&biw=1920&bih=1007&dpr=1#imgrc=XrjvOymbz9lWwM" alt="bootstrap" width="40" height="40"/>
+    <img src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" width="40" height="40"/>
 </a>
 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">

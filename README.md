@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadel DAFIA</h1>
-<h3 align="center">A spectrum from darkness (a beautiful country in Africa)</h3>
+<h3 align="center">A spectrum from darkness </h3>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x-spectrum&show_icons=true&locale=en&theme=vue-dark" alt="x-spectrum" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=x-spectrum&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DDDDDD" alt="x-spectrum" />
 </p>
@@ -9,7 +9,7 @@
 
 
 
-<p align="center"> <a href="https://twitter.com/happy_dev229" target="blank"><img src="https://img.shields.io/twitter/follow/happy_dev229?logo=twitter&style=for-the-badge" alt="x-spectrum" /></a> <img src="https://komarev.com/ghpvc/?username=x-spectrum&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="x-spectrum" /></p>
+<p align="center"> <a href="https://twitter.com/fadel_dafia" target="blank"><img src="https://img.shields.io/twitter/follow/fadel_dafia?logo=twitter&style=for-the-badge" alt="x-spectrum" /></a> <img src="https://komarev.com/ghpvc/?username=x-spectrum&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="x-spectrum" /></p>
 
 
 - 🔭 I’m currently working on **Basic Hangman game**
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/happy_dev229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="happy_dev229" height="30" width="40" /></a>
+<a href="https://twitter.com/fadel_dafia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fadel_dafia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -125,9 +125,8 @@
 </a>
 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40"    height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 </a> 
 </p>
-
 
 <p align="cente"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=x-spectrum&theme=nord" alt="x-spectrum" /></a> </p>

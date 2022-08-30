@@ -6,9 +6,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=x-spectrum&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="x-spectrum" /></p>
 
 
-
-
-
 <p align="center"> <a href="https://twitter.com/fadel_dafia" target="blank"><img src="https://img.shields.io/twitter/follow/fadel_dafia?logo=twitter&style=for-the-badge" alt="x-spectrum" /></a> <img src="https://komarev.com/ghpvc/?username=x-spectrum&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="x-spectrum" /></p>
 
 
@@ -16,7 +13,7 @@
 
 - 🌱 I’m currently learning **VueJs and Japanese😏😉**
 
-- 💬 Ask me about **flutter, C, c++ and Laravel**
+- 💬 Ask me about **flutter, c, c++ and Laravel**
 
 - 📫 How to reach me **wwwfadeldafia76@gmail.com**
 
